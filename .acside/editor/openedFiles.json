@@ -44,7 +44,22 @@
           "line": 4
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 32,
+          "index": 596,
+          "line": 13
+        },
+        "start": {
+          "column": 32,
+          "index": 596,
+          "line": 13
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/kotlin/com/example/myempty/arona/MainActivity.kt"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml"
 }

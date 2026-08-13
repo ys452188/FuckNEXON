@@ -44,12 +44,12 @@
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-38:/raw/big_man_is_very_busy_ne.mp3"
     },
     {
-        "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-debug-36:/raw_where_to_start_work_sensei.mp3.flat",
-        "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-38:/raw/where_to_start_work_sensei.mp3"
-    },
-    {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-debug-36:/raw_where_to_start_work_sensei.mp3.flat",
+        "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-38:/raw/where_to_start_work_sensei.mp3"
     },
     {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -58,6 +58,10 @@
     {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-debug-36:/raw_the_thing_is_really_large.mp3.flat",
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-38:/raw/the_thing_is_really_large.mp3"
+    },
+    {
+        "merged": "com.example.myempty.arona.app-debug-36:/drawable_icon.png.flat",
+        "source": "com.example.myempty.arona.app-main-38:/drawable/icon.png"
     },
     {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-debug-36:/raw_sensei_can_start_work_there.mp3.flat",

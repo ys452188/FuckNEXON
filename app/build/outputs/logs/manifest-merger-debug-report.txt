@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:2:1-24:12
 MERGED from [logger-runtime.aar] /data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/04653cfac22805018a6a1bf4393274b0/transformed/logger-runtime/AndroidManifest.xml:2:1-21:12
 MERGED from [androidx.databinding:viewbinding:8.13.0] /data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/d6d52c687587b8e35954d2d37864f0b4/transformed/viewbinding-8.13.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.13.0] /data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/a8aad1d12255982d7dcd6965a6b96acf/transformed/material-1.13.0/AndroidManifest.xml:17:1-24:12
@@ -63,8 +63,8 @@ ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidMani
 	android:name
 		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:5:26-79
 application
-ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:6:5-21:19
-INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:6:5-21:19
+ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:6:5-22:19
+INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:6:5-22:19
 MERGED from [logger-runtime.aar] /data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/04653cfac22805018a6a1bf4393274b0/transformed/logger-runtime/AndroidManifest.xml:14:5-19:19
 MERGED from [logger-runtime.aar] /data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/04653cfac22805018a6a1bf4393274b0/transformed/logger-runtime/AndroidManifest.xml:14:5-19:19
 MERGED from [com.google.android.material:material:1.13.0] /data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/a8aad1d12255982d7dcd6965a6b96acf/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
@@ -94,29 +94,31 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/
 	android:label
 		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:10:9-43
 	android:icon
-		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:8:9-38
 	android:allowBackup
 		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
 		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.example.myempty.arona.MainActivity
-ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:13:9-20:20
+ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:14:9-34
 	android:exported
-		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:15:13-36
+		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:14:13-41
+		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:16:13-19:29
+ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
 INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml

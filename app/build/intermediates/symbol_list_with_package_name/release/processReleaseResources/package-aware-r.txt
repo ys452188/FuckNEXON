@@ -3595,6 +3595,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable icon
 drawable icon_delete_normal
 drawable icon_delete_selected
 drawable m3_avd_hide_password

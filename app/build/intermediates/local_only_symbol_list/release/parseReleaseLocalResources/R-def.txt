@@ -3,6 +3,7 @@ local
 drawable arona
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable icon
 id arona_view
 id close_window_button
 id fuck_nexon

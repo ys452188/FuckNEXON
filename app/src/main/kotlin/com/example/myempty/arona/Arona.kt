@@ -9,6 +9,8 @@ import android.media.MediaPlayer
 class Arona(private val context: Context) {
     private var count = 0
     private var mediaPlayer: MediaPlayer? = null
+    public var height = 256
+    public var width = 128
     
     private val audioFileList =
         arrayOf(

@@ -8,6 +8,8 @@ id arona_view
 id close_window_button
 id fuck_nexon
 id main_linear_layout
+id set_height
+id set_width
 layout activity_main
 layout arona
 mipmap ic_launcher

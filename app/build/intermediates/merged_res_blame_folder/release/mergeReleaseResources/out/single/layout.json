@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.myempty.arona.app-mergeReleaseResources-35:/layout/arona.xml",
+        "source": "com.example.myempty.arona.app-main-37:/layout/arona.xml"
+    },
+    {
+        "merged": "com.example.myempty.arona.app-mergeReleaseResources-35:/layout/activity_main.xml",
+        "source": "com.example.myempty.arona.app-main-37:/layout/activity_main.xml"
+    }
+]

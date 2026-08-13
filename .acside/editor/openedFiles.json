@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/kotlin/com/example/myempty/arona/Arona.kt",
+      "selection": {
+        "end": {
+          "column": 3,
+          "index": 145,
+          "line": 8
+        },
+        "start": {
+          "column": 3,
+          "index": 145,
+          "line": 8
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/kotlin/com/example/myempty/arona/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 38,
+          "index": 251,
+          "line": 9
+        },
+        "start": {
+          "column": 38,
+          "index": 251,
+          "line": 9
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 117,
+          "line": 4
+        },
+        "start": {
+          "column": 12,
+          "index": 117,
+          "line": 4
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/kotlin/com/example/myempty/arona/MainActivity.kt"
+}

@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+drawable arona
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id arona_view
+id close_window_button
+id fuck_nexon
+id main_linear_layout
+layout activity_main
+layout arona
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw arona_is_afraid_of_health
+raw ask_sensei_to_start_work
+raw big_man_is_very_busy_ne
+raw come_on_together_sensei
+raw sensei_can_start_work_there
+raw the_thing_is_really_large
+raw where_to_start_work_sensei
+raw wow_the_work_number_is_very_big
+string app_name
+style AppTheme
+style Base.AppTheme
+xml backup_rules
+xml data_extraction_rules

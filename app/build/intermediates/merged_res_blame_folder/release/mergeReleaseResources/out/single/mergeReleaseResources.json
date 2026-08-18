@@ -8,16 +8,16 @@
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-release-36:/drawable_icon.png.flat",
+        "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-37:/drawable/icon.png"
+    },
+    {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-release-36:/drawable_arona.png.flat",
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-37:/drawable/arona.png"
     },
     {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-release-36:/drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-37:/drawable-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "com.example.myempty.arona.app-release-36:/drawable_icon.png.flat",
-        "source": "com.example.myempty.arona.app-main-37:/drawable/icon.png"
     },
     {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-release-36:/layout_arona.xml.flat",
@@ -64,6 +64,10 @@
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-37:/xml/backup_rules.xml"
     },
     {
+        "merged": "com.example.myempty.arona.app-release-36:/layout_activity_main.xml.flat",
+        "source": "com.example.myempty.arona.app-main-37:/layout/activity_main.xml"
+    },
+    {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-release-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
     },
@@ -94,6 +98,10 @@
     {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-release-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myempty.arona.app-release-36:/layout_arona.xml.flat",
+        "source": "com.example.myempty.arona.app-main-37:/layout/arona.xml"
     },
     {
         "merged": "/data/data/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.myempty.arona.app-release-36:/raw_ask_sensei_to_start_work.mp3.flat",

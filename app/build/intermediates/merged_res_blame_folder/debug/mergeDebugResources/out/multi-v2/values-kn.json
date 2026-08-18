@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myempty.arona.app-mergeDebugResources-34:/values-kn/values-kn.xml",
+            "outputFile": "com.example.myempty.arona.app-mergeDebugResources-36:/values-kn/values-kn.xml",
             "map": [
                 {
                     "source": "/data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/364a2247c064f678d92175a50b54c0f0/transformed/core-1.17.0/res/values-kn/values-kn.xml",

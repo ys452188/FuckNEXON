@@ -64,6 +64,34 @@
                  android:inputType="number"
                  android:id="@+id/set_width" />
 
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:text="[N]戳一下彩奈可以应用喵"
+                 android:paddingTop="15dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:gravity="center"
+             android:padding="30dp"
+             android:orientation="vertical">
+
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:textSize="15sp"
+                 android:text="甲级战犯•金用河" />
+
+            <ImageView
+                 android:layout_height="120dp"
+                 android:layout_width="120dp"
+                 android:src="@drawable/kim"
+                 android:maxHeight="30dp"
+                 android:maxWidth="15dp" />
+
         </LinearLayout>
 
     </LinearLayout>

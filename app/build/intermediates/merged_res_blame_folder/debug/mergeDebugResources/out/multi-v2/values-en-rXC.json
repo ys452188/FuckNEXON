@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myempty.arona.app-mergeDebugResources-34:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.example.myempty.arona.app-mergeDebugResources-36:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "/data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/7847e69fe0e2f893173fa4cb79aa4139/transformed/appcompat-1.7.1/res/values-en-rXC/values-en-rXC.xml",

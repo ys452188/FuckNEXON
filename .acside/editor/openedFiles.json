@@ -1,32 +1,32 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/kotlin/com/example/myempty/arona/Arona.kt",
+      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/kotlin/com/example/myempty/arona/MainActivity.kt",
       "selection": {
         "end": {
-          "column": 10,
-          "index": 299,
-          "line": 12
+          "column": 42,
+          "index": 3041,
+          "line": 82
         },
         "start": {
-          "column": 10,
-          "index": 299,
-          "line": 12
+          "column": 42,
+          "index": 3041,
+          "line": 82
         }
       }
     },
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/kotlin/com/example/myempty/arona/MainActivity.kt",
+      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/kotlin/com/example/myempty/arona/Arona.kt",
       "selection": {
         "end": {
-          "column": 46,
-          "index": 123,
-          "line": 5
+          "column": 24,
+          "index": 262,
+          "line": 11
         },
         "start": {
-          "column": 46,
-          "index": 123,
-          "line": 5
+          "column": 24,
+          "index": 262,
+          "line": 11
         }
       }
     },
@@ -34,29 +34,14 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/res/layout/activity_main.xml",
       "selection": {
         "end": {
-          "column": 43,
-          "index": 2390,
-          "line": 64
+          "column": 15,
+          "index": 3408,
+          "line": 98
         },
         "start": {
-          "column": 43,
-          "index": 2390,
-          "line": 64
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/AndroidManifest.xml",
-      "selection": {
-        "end": {
-          "column": 32,
-          "index": 596,
-          "line": 13
-        },
-        "start": {
-          "column": 32,
-          "index": 596,
-          "line": 13
+          "column": 15,
+          "index": 3408,
+          "line": 98
         }
       }
     },
@@ -64,29 +49,14 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/src/main/res/layout/arona.xml",
       "selection": {
         "end": {
-          "column": 13,
-          "index": 231,
+          "column": 36,
+          "index": 254,
           "line": 6
         },
         "start": {
-          "column": 13,
-          "index": 231,
+          "column": 36,
+          "index": 254,
           "line": 6
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Arona/app/build.gradle",
-      "selection": {
-        "end": {
-          "column": 1,
-          "index": 1049,
-          "line": 41
-        },
-        "start": {
-          "column": 1,
-          "index": 1049,
-          "line": 41
         }
       }
     }

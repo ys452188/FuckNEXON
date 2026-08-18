@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     xmlns:tools="http://schemas.android.com/tools"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:gravity="center|top"
+     android:padding="50dp"
+     android:orientation="vertical"
+     tools:context=".MainActivity"
+     android:id="@+id/main_linear_layout">
+
+    <TextView
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:padding="15dp"
+         android:textSize="30sp"
+         android:text="Developed By CuSO4isVeryNice" />
+
+    <LinearLayout
+         android:layout_height="fill_parent"
+         android:layout_width="fill_parent"
+         android:gravity="center"
+         android:padding="15dp"
+         android:orientation="vertical">
+
+        <LinearLayout
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:orientation="vertical">
+
+            <com.google.android.material.button.MaterialButton
+                 android:layout_height="wrap_content"
+                 android:layout_width="fill_parent"
+                 android:text="点这儿可以退出喵~"
+                 android:id="@+id/close_window_button" />
+
+            <com.google.android.material.button.MaterialButton
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:text="点这儿与NEXON教培喵~"
+                 android:id="@+id/fuck_nexon" />
+
+        </LinearLayout>
+
+        <LinearLayout
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:padding="15dp"
+             android:orientation="vertical">
+
+            <EditText
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:hint="自定义彩奈的高喵~(dp)"
+                 android:inputType="number"
+                 android:id="@+id/set_height" />
+
+            <EditText
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:hint="自定义彩奈的宽喵~(dp)"
+                 android:inputType="number"
+                 android:id="@+id/set_width" />
+
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:text="[N]戳一下彩奈可以应用喵"
+                 android:paddingTop="15dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

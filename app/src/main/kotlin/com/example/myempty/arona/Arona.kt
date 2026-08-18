@@ -3,8 +3,10 @@
 // FUCK NEXON
 package com.example.myempty.arona
 
+import android.util.Log
 import android.content.Context
 import android.media.MediaPlayer
+import kotlinx.coroutines.*
 
 class Arona(private val context: Context) {
     private var count = 0
@@ -14,13 +16,13 @@ class Arona(private val context: Context) {
     
     private val audioFileList =
         arrayOf(
-            "arona_is_afraid_of_health",
             "where_to_start_work_sensei",
             "sensei_can_start_work_there",
+            "ask_sensei_to_start_work",
             "big_man_is_very_busy_ne",
             "the_thing_is_really_large",
             "wow_the_work_number_is_very_big",
-            "ask_sensei_to_start_work",
+            "arona_is_afraid_of_health",
             "come_on_together_sensei"
         )
 
@@ -49,5 +51,18 @@ class Arona(private val context: Context) {
     fun release() {
         mediaPlayer?.release()
         mediaPlayer = null
+    }
+}
+class JunkLogger(
+    private val scope: CoroutineScope
+) {
+    private val TAG = "[Hxh(CuSO4isVeryNice) Sensei]"
+    public fun run() {
+        scope.launch {
+            while (true) {
+                Log.w(TAG, "FUCK NEXON!")
+                delay(800) // 协程挂起
+            }
+        }
     }
 }

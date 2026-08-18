@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myempty.arona.app-mergeDebugResources-34:/values/values.xml",
+            "outputFile": "com.example.myempty.arona.app-mergeDebugResources-36:/values/values.xml",
             "map": [
                 {
                     "source": "/data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/ce45ba2090fc0288b1bb65e52a69a2c4/transformed/coordinatorlayout-1.1.0/res/values/values.xml",
@@ -226,7 +226,7 @@
                     }
                 },
                 {
-                    "source": "/data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/517360118d4d4531e8d0e8cff8cd5222/transformed/lifecycle-runtime-2.6.2/res/values/values.xml",
+                    "source": "/data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/f31e5c04db3327bd1261434249d6af09/transformed/lifecycle-runtime-2.7.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -262,7 +262,7 @@
                     }
                 },
                 {
-                    "source": "/data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/89bbb552a7ff8261504b4ef03a394ce5/transformed/lifecycle-viewmodel-2.6.2/res/values/values.xml",
+                    "source": "/data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/508d5142bf0289823b9ca87eaa5a3d65/transformed/lifecycle-viewmodel-2.7.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

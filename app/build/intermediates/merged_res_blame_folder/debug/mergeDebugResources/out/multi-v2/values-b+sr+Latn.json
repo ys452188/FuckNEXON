@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myempty.arona.app-mergeDebugResources-34:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "com.example.myempty.arona.app-mergeDebugResources-36:/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/data/data/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/a8aad1d12255982d7dcd6965a6b96acf/transformed/material-1.13.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",

@@ -3598,6 +3598,7 @@ drawable ic_search_black_24
 drawable icon
 drawable icon_delete_normal
 drawable icon_delete_selected
+drawable kim
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -4418,6 +4419,8 @@ raw arona_is_afraid_of_health
 raw ask_sensei_to_start_work
 raw big_man_is_very_busy_ne
 raw come_on_together_sensei
+raw plana_ask_sensei
+raw plana_err_unknown_activity
 raw sensei_can_start_work_there
 raw the_thing_is_really_large
 raw where_to_start_work_sensei

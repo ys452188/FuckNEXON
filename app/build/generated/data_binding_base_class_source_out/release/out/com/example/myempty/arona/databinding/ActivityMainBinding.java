@@ -4,6 +4,7 @@ package com.example.myempty.arona.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.EditText;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -28,13 +29,22 @@ public final class ActivityMainBinding implements ViewBinding {
   @NonNull
   public final LinearLayout mainLinearLayout;
 
+  @NonNull
+  public final EditText setHeight;
+
+  @NonNull
+  public final EditText setWidth;
+
   private ActivityMainBinding(@NonNull LinearLayout rootView,
       @NonNull MaterialButton closeWindowButton, @NonNull MaterialButton fuckNexon,
-      @NonNull LinearLayout mainLinearLayout) {
+      @NonNull LinearLayout mainLinearLayout, @NonNull EditText setHeight,
+      @NonNull EditText setWidth) {
     this.rootView = rootView;
     this.closeWindowButton = closeWindowButton;
     this.fuckNexon = fuckNexon;
     this.mainLinearLayout = mainLinearLayout;
+    this.setHeight = setHeight;
+    this.setWidth = setWidth;
   }
 
   @Override
@@ -78,8 +88,20 @@ public final class ActivityMainBinding implements ViewBinding {
 
       LinearLayout mainLinearLayout = (LinearLayout) rootView;
 
+      id = R.id.set_height;
+      EditText setHeight = ViewBindings.findChildViewById(rootView, id);
+      if (setHeight == null) {
+        break missingId;
+      }
+
+      id = R.id.set_width;
+      EditText setWidth = ViewBindings.findChildViewById(rootView, id);
+      if (setWidth == null) {
+        break missingId;
+      }
+
       return new ActivityMainBinding((LinearLayout) rootView, closeWindowButton, fuckNexon,
-          mainLinearLayout);
+          mainLinearLayout, setHeight, setWidth);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
